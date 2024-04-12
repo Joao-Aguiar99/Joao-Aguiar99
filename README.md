@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Java for Mobile and Laravel/PHP
 - 🤔 I’m looking for help in developing for Android
 - 💬 Ask me about anything I might know about
-- 📫 How to reach me: 
+- 📫 How to reach me: @Jotanimal (Instagram)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a bottlecap collection : <img loading="lazy" src="https://cdn3.emoji.gg/emojis/3611_fallout_nuka_cola.png" width="15" height="15"/>
+- ⚡ Fun fact: I have a bottlecap collection <img loading="lazy" src="https://cdn3.emoji.gg/emojis/3611_fallout_nuka_cola.png" width="15" height="15"/>
 
 <div>
 <a href="https://github.com/Jotanimal">
