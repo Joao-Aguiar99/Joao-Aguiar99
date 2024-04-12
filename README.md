@@ -4,12 +4,11 @@
 
 - 🔭 I’m currently working on some projects from college and my internship
 - 🌱 I’m currently learning Java for Mobile and Laravel/PHP
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help in developing for Android
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything I might know about
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a bottlecap collection : <img loading="lazy" src="https://cdn3.emoji.gg/emojis/3611_fallout_nuka_cola.png" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/Jotanimal">
