@@ -8,7 +8,7 @@
 - 💬 Ask me about anything I might know about
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a bottlecap collection : <img loading="lazy" src="https://cdn3.emoji.gg/emojis/3611_fallout_nuka_cola.png" width="40" height="40"/>
+- ⚡ Fun fact: I have a bottlecap collection : <img loading="lazy" src="https://cdn3.emoji.gg/emojis/3611_fallout_nuka_cola.png" width="15" height="15"/>
 
 <div>
 <a href="https://github.com/Jotanimal">
