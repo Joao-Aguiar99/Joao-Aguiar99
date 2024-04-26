@@ -1,6 +1,6 @@
 # Hi there, welcome to my GitHub profile 👋
 
-## My name is João Aguiar and my nickname is "Jotanimal"
+## My name is João Aguiar, but you can call me Jota!
 
 - 🔭 I’m currently working on some projects from college and my internship
 - 🌱 I’m currently learning Java for Mobile and Laravel/PHP
